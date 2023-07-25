@@ -1,4 +1,4 @@
-### About Project 
+## About Project 
 
 - Performed India based hardware company sales insights - A Data Analysis project.
 
